@@ -1,0 +1,56 @@
+[
+  {
+    "job": "LKB-OUT-69010001",
+    "packing": {
+      "worker": "อลงกรณ์",
+      "startTime": "2025-10-19T10:00:00",
+      "endTime": "2025-10-19T10:30:00"
+    },
+    "checking": {
+      "worker": "บวร",
+      "startTime": "2025-10-19T10:31:00",
+      "endTime": "2025-10-19T10:55:00"
+    },
+    "loading": {
+      "worker": "มนัสนันทร์",
+      "startTime": "2025-10-19T11:00:00",
+      "endTime": null
+    }
+  },
+  {
+    "job": "LKB-OUT-69010002",
+    "packing": {
+      "worker": "อลงกรณ์",
+      "startTime": "2025-10-19T09:45:00",
+      "endTime": "2025-10-19T10:05:00"
+    },
+    "checking": {
+      "worker": "ประกิต",
+      "startTime": "2025-10-19T10:10:00",
+      "endTime": null
+    },
+    "loading": {
+      "worker": "",
+      "startTime": null,
+      "endTime": null
+    }
+  },
+  {
+    "job": "LKB-OUT-69010003",
+    "packing": {
+      "worker": "ปริญญา",
+      "startTime": "2025-10-19T13:45:00",
+      "endTime": "2025-10-19T14:00:00"
+    },
+    "checking": {
+      "worker": "บวร",
+      "startTime": "2025-10-19T14:10:00",
+      "endTime": "2025-10-19T14:30:00"
+    },
+    "loading": {
+      "worker": "ลันลตา",
+      "startTime": "2025-10-19T15:40:00",
+      "endTime": "2025-10-19T16:10:00"
+    }
+  }
+]
